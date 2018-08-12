@@ -80,7 +80,7 @@ font-size: 15px
 }
 
 .list li {
-font-size: 15px  
+font-size: 15px
 }
 
 .inline-list {
@@ -92,6 +92,7 @@ font-size: 15px
   opacity: 0.9;
   display: inline;
   margin-right: 10px;
+  margin-bottom: 20px
 }
 
 .inline-list ul {
